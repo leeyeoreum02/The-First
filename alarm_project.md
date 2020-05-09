@@ -1,6 +1,6 @@
 # 알람 프로젝트
 
-사용언어: Python
+사용언어: Python(BackEnd)
 
 알고리즘
 
