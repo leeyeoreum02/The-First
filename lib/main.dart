@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
         // closer together (more dense) than on mobile platforms.
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: MyHomePage(title: '플러터 데모 앱'),
+      home: MyHomePage(title: '플러터'),
     );
   }
 }
@@ -43,7 +43,7 @@ class MyHomePage extends StatefulWidget {
   // used by the build method of the State. Fields in a Widget subclass are
   // always marked "final".
 
-  final String title;u
+  final String title;
 
   @override
   _MyHomePageState createState() => _MyHomePageState();
